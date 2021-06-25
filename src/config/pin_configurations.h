@@ -1,0 +1,10 @@
+
+#define MOTOR_DIR_PIN D1
+#define MOTOR_STEP_PIN D2
+
+#define MOTOR_SDO_PIN D4
+#define MOTOR_SDI_PIN D6
+#define MOTOR_SCK_PIN D7
+#define MOTOR_CS_PIN D8
+
+#define CAM_PIN D5
